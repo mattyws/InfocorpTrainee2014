@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04/12/2014, 09:52:58
+    Author     : mattyws
+*/
+
+@import 'navigation.css';
+@import 'content.css';
+@import 'footer.css';
+@import 'header.css';
+
+div#body {
+    width: 70%;
+    margin: 0 0 0 13%;    
+}

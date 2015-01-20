@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05/12/2014, 15:24:31
+    Author     : mattyws
+*/
+
+div#header {
+    height: 200px;    
+}
+
+div#header div#empresa {
+    font-size: 55px;
+    height: 110px;
+}
